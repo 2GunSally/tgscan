@@ -1,7 +1,7 @@
 services:
   - type: web
     name: tgscan
-    env: docker-compose
+    env: docker
     repo: https://github.com/2GunSally/tgscan.git
     region: nevada
     plan: free
